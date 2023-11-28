@@ -1,0 +1,7 @@
+out/*.sht
+tools/tiles
+watcomc.zip
+APPINFO/
+DEVEL/
+out/GAME.EXE
+*.OBJ
